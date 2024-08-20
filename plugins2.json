@@ -133,7 +133,6 @@
         "tvTypes": [
             "AsianDrama",
             "TvSeries",
-            "Anime",
             "Movie"
         ],
         "version": 9,
@@ -212,7 +211,6 @@
         "tvTypes": [
             "AsianDrama",
             "TvSeries",
-            "Anime",
             "Movie"
         ],
         "version": 4,
@@ -234,7 +232,6 @@
         "tvTypes": [
             "AsianDrama",
             "TvSeries",
-            "Anime",
             "Movie"
         ],
         "version": 228,
@@ -275,7 +272,6 @@
         ],
         "tvTypes": [
             "AsianDrama",
-            "Anime",
             "TvSeries",
             "Movie"
         ],
