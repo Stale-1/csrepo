@@ -1,0 +1,8 @@
+{
+  "name": "CSRepo",
+  "description": "Movies, TV Series and Anime",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Stale-1/csrepo/main/plugins.json"
+  ]
+}
